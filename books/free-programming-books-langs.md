@@ -40,7 +40,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [ColdFusion](#coldfusion)
 * [Component Pascal](#component-pascal)
 * [Cool](#cool)
-* [Coq](#coq)
+* [Coq](#rocq-prover)
 * [Crystal](#crystal)
 * [CUDA](#cuda)
 * [D](#d)
@@ -186,6 +186,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Raku](#raku)
 * [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
     * [RSpec](#rspec)
     * [Ruby on Rails](#ruby-on-rails)
@@ -635,12 +636,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Cool
 
 * [CoolAid: The Cool 2013 Reference Manual](https://www.eecis.udel.edu/~cavazos/cisc672/docs/cool-manual.pdf) (PDF)
-
-
-### Coq
-
-* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
-* [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
 
 
 ### Crystal
@@ -2325,6 +2320,12 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Sinatra
 
 * [Sinatra Book](https://github.com/sinatra/sinatra-book)
+
+
+### Rocq Prover
+
+* [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/html/toc.html)
+* [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
 
 
 ### Rust
